@@ -54,13 +54,12 @@ RESPONSE: HTTP 201 (Created)
 POST http://localhost:8080/movies/search/the/2
 
 
-Response: HTTP 200
+Response:
 
 [
     "the dark knight",
     "the exorcist"
 ]
 
-Content: paginated list 
 ```
 
