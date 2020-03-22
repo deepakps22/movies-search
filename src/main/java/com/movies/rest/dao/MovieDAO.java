@@ -13,7 +13,7 @@ import org.springframework.stereotype.Repository;
 
 import com.movies.rest.model.Movie;
 import com.movies.rest.model.Movies;
-import com.movies.rest.model.TrieNode;
+import com.movies.rest.util.TrieNode;
 
 @Repository
 public class MovieDAO {
