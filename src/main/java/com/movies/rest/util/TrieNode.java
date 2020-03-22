@@ -1,4 +1,4 @@
-package com.movies.rest.model;
+package com.movies.rest.util;
 
 import java.util.HashMap;
 
